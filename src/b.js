@@ -1,0 +1,1 @@
+export const a = { ich: "sie", er: "wer" }
